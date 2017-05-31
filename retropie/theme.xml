@@ -24,20 +24,15 @@
 	<view name="basic, detailed, video">	
 		
 		<text name="system_name_1" extra="true">
-			<text>Nintendo Game Boy</text>
+			<text>Tools</text>
 			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.021</size>
 			<pos>0.034 0.064</pos>
 			<color>000000</color>
 			<fontPath>./../assets/Oxygen-Regular.ttf</fontPath>
-			<fontSize>0.02</fontSize>
+			<fontSize>0.04</fontSize>
 			<alignment>left</alignment>
 		</text>
-		
-		<image name="logo">
-			<color>00000000</color>
-			<pos>1 1</pos>
-		</image>
 	
 	</view>
 	
