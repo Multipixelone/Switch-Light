@@ -25,7 +25,7 @@
 		
 		<text name="system_name_1" extra="true">
 			<text>Nintendo Entertainment System</text>
-			<forceUppercase>1</forceUppercase>
+			<forceUppercase>0</forceUppercase>
 			<size>0.743 0.015</size>
 			<pos>0.034 0.081</pos>
 			<color>000000</color>
