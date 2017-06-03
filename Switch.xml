@@ -28,7 +28,7 @@ based on:       Switch Theme for Launchbox by Grila
 		
 		<image name="arrowblock" extra="true">
 			<pos>0.03 0.23</pos>
-			<path>./assets/arrow_block.png</path>
+			<path>./assets/arrow_block.svg</path>
 			<size>0.02 0.057</size>
 		</image>	
 
@@ -141,7 +141,8 @@ based on:       Switch Theme for Launchbox by Grila
 		</text>
 		
 		<text name="md_developer">
-			<pos>0.740 0.183</pos>
+			<pos>0.740 0.196</pos>
+			<size>0.2 0.028</size>
 		</text>
 <!-------------RELEASE------------------->		
 		<datetime name="md_releasedate">
