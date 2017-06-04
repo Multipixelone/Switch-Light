@@ -1,4 +1,4 @@
-# Switch-Beta
+# Switch-Light
 Theme for EmulationStation and RetroPie
 
 About
