@@ -29,7 +29,7 @@ based on:       Switch Theme for Launchbox by Grila
 		<image name="arrowblock" extra="true">
 			<pos>0.03 0.23</pos>
 			<path>./assets/arrow_block.svg</path>
-			<size>0.02 0.057</size>
+			<size>0.023 0.057</size>
 		</image>	
 
 	</view>
